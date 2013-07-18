@@ -1,21 +1,23 @@
 body {
-   background-color: Pink
+   border: Double;
+   border-color: DarkSalmon;
+   background-color: DarkSeaGreen;
 }
 
 h1 {
-   color:Blue
+   color:White
 }
 
 h2 {
-   color: green 
+   color: White
 }
 
 h1 {
-  border: dotted;
+  border: Solid;
 }
 
 h2 {
-   border: dotted;
+   border: Solid;
    padding: 20px;
 }
 
@@ -24,7 +26,3 @@ h3 {
    padding: 20px;
 }
 
-h4 {
-   border: dotted;
-   padding: 20px;
-}
