@@ -1,12 +1,30 @@
 body {
-   background-color: Red
+   background-color: Pink
 }
 
 h1 {
-   color: Blue
+   color:Blue
 }
 
 h2 {
-   color: Orange
+   color: green 
 }
 
+h1 {
+  border: dotted;
+}
+
+h2 {
+   border: dotted;
+   padding: 20px;
+}
+
+h3 {
+   border: dotted;
+   padding: 20px;
+}
+
+h4 {
+   border: dotted;
+   padding: 20px;
+}
