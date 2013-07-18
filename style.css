@@ -1,7 +1,11 @@
 body {
    border: Double;
-   border-color: DarkSalmon;
-   background-color: DarkSeaGreen;
+   border-color: DarkSeaGreen;
+   background-color: DarkSalmon;
+}
+
+title {
+      color: White;
 }
 
 h1 {
